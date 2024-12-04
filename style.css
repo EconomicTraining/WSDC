@@ -255,6 +255,7 @@ button {
     position: absolute;
     background-color: white;
     padding: 50px;
+    height: fit-content;
     border-radius: 30px;
    width: 800px;
    padding-inline: 50px;
@@ -262,7 +263,7 @@ button {
    flex-direction: column;
    z-index: 1000;
 
-   gap: 200px;
+   gap: 50px;
 }
 
 #popUp .garis {
