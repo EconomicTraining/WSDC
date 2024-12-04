@@ -305,12 +305,13 @@ button {
     padding: 50px;
     border-radius: 30px;
    width: 800px;
+   height: fit-content;
    padding-inline: 50px;
    display: flex;
    flex-direction: column;
    z-index: 1000;
 
-   gap: 200px;
+   gap: 50px;
 }
 
 #popUp2 .garis {
